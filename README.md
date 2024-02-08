@@ -16,7 +16,12 @@
   <hr>
   Currently I'm working on React projects to increase understanding of this library and get more practice💻
   <hr>
-  I'm interested in books📚, sport🏋️, guitar🎸, and developing myself as a person🌱
+  I'm interested in
+  <br>
+  📚 - books<br>
+  🏋️ - sport<br>
+  🎸 - guitar <br>
+  🌱 - developing myself as a person
 </section>
 &nbsp
 <div align="center">
