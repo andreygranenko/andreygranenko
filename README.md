@@ -1,6 +1,6 @@
 <div id='header' align='center'>
   <h1>Hello, I'm Andrew 👋</h1>
-  <h3>Frontend Developer from Riga 🌍</h3>
+  <h3>Web/Salesforce Developer from Riga 🌍</h3>
 </div>
 <h2>How to reach me:🛡️ </h2> 
 <a href='https://www.linkedin.com/in/andrey-granenko-70414a25a/'>
