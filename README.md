@@ -13,9 +13,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-white?logo=instagram">
 </a>
 <section>
-  <hr>
-  Currently I'm working on React projects to increase understanding of this library and get more practice💻
-  <hr>
+
   I'm interested in
   <br>
   📚 - books<br>
